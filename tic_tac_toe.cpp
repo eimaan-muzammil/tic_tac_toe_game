@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-char square[9] = {'0','1','2','3','4','5','6','7','8'};
+char square[9] = {'0','1','2','3','4','5','6','7','8'};//no. of boxes
 int checkwin()
 {
 		if (square[0] == square [1]  && square[1] == square[2] )
