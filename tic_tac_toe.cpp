@@ -135,7 +135,7 @@ int main()
 		}
 }
 		if (X == 0 )
-		cout<<" \n Sorry, The game is a draw ";
+		cout<<" \n Sorry, The game is a draw ";//draw 
 	
 	return 0;
 }
